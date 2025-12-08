@@ -1,6 +1,6 @@
 Casos de Teste – Netshoes (Busca, Filtros, PDP e Carrinho)
 
-Data: coloque o dia de hoje
+Data: 08/12/2025
 Responsável: Pedro Carvalho
 Sistema: Netshoes
 URL: https://www.netshoes.com.br
